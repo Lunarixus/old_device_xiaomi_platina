@@ -289,6 +289,7 @@ PRODUCT_PACKAGES += \
     android.hardware.light@2.0-service.platina
 
 # LiveDisplay
+PRODUCT_PACKAGES += \
     vendor.lineage.livedisplay@1.0-service-sdm \
     vendor.lineage.livedisplay-V1.0-java
 
