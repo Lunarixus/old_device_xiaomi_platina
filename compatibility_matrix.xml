@@ -1,3 +1,4 @@
+<!-- Copyright (C) The LineageOS Project 2019. -->
 <compatibility-matrix version="1.0" type="device">
     <hal format="hidl" optional="false">
         <name>android.frameworks.displayservice</name>
@@ -63,6 +64,7 @@
             <instance>ashmem</instance>
         </interface>
     </hal>
+    <!-- fix mem hal for audio -->
     <hal format="hidl" optional="false">
         <name>android.hidl.token</name>
         <version>1.0</version>
