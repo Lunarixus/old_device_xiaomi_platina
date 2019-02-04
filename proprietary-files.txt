@@ -62,15 +62,12 @@ lib64/libaptXHD_encoder.so|90f47f10af28b3ead143200cb4370b847c513127
 # Audio
 vendor/bin/audioflacapp
 vendor/bin/capture.sh
-<<<<<<< HEAD
-=======
 vendor/lib/hw/audio.primary.sdm660.so
 vendor/lib64/hw/audio.primary.sdm660.so
 vendor/etc/drc/drc_cfg_5.1.txt
 vendor/etc/drc/drc_cfg_AZ.txt
 vendor/etc/surround_sound_3mic/surround_sound_rec_5.1.cfg
 vendor/etc/surround_sound_3mic/surround_sound_rec_AZ.cfg
->>>>>>> fcd5e19... platina: Platina not support FM
 vendor/firmware/dbmd4_va_fw.bin
 vendor/firmware/tfa98xx_aac.cnt
 vendor/firmware/tfa98xx_goer.cnt
