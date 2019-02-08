@@ -4,7 +4,6 @@ Credits:
 - @lihonglinglory
 - @Lunarixus
 - @rsyhan
-- @ManoloRey
 - @brunorochaa
 And any others I have missed:P
 
